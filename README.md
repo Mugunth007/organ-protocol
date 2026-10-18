@@ -65,7 +65,7 @@ Create a `.env.local` file (or use the included `.env.example`):
 ```env
 NEXT_PUBLIC_ARKIV_RPC_URL=https://rpc.tiramisu.db-chain.testnet.arkiv.network
 NEXT_PUBLIC_ARKIV_CHAIN_ID=7738577
-ARKIV_OPERATOR_PRIVATE_KEY=0xbd3f0a23150cf35405fc901bc01b028a7db4ae5c7754cf5eb6f21672e1934c1c
+ARKIV_OPERATOR_PRIVATE_KEY=your_private_key_here
 NEXT_PUBLIC_OPERATOR_ADDRESS=0x312d820b86Ab738f62cbEF5bcBb1DAC72660E617
 ```
 
