@@ -210,7 +210,7 @@ export async function fetchLiveOrgans(): Promise<OrganItem[]> {
           remainingSeconds: remainingSeconds > 0 ? remainingSeconds : ischemiaHours * 3600,
           donorRef: payload.donorRef || 'ANON-DONOR',
           hla: payload.hlaCompatibility || {},
-          createdAt: e.createdAt,
+          createdAt: e.createdAt ? new Date(Number(e.createdAt) * 1000).toISOString() : new Date().toISOString(),
         };
       });
     }
