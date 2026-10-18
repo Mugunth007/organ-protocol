@@ -36,6 +36,7 @@ Conventional blockchains cannot solve this efficiently because storing temporal 
 
 ## 🏆 Hackathon Gate Checklist
 - [x] **Public Live Deployment**: [https://arkiv-umber.vercel.app](https://arkiv-umber.vercel.app)
+- [x] **Demo Video Walkthrough (< 3 min)**: Complete 2m 15s HD video with voiceover ([`demo_assets/organ_protocol_demo_walkthrough.mp4`](./demo_assets/organ_protocol_demo_walkthrough.mp4))
 - [x] **Public MIT Repo**: [LICENSE](./LICENSE)
 - [x] **Entity Schema Specification**: [`/arkiv/schema.md`](./arkiv/schema.md)
 - [x] **Developer Friction Report**: [`/arkiv/friction.md`](./arkiv/friction.md)
