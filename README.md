@@ -2,6 +2,7 @@
 ### Decentralized Cadaveric Organ Allocation & Cold-Ischemia Decay Protocol built on Arkiv
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg)](./LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-arkiv--umber.vercel.app-blue.svg)](https://arkiv-umber.vercel.app)
 [![Arkiv Tiramisu](https://img.shields.io/badge/Network-Arkiv%20Tiramisu%20(7738577)-amber.svg)](https://tiramisu.explorer.arkiv.network)
 [![Track](https://img.shields.io/badge/Track-Best%20Indian%20Use%20Case%20%7C%20CROPS-rose.svg)](#)
 
@@ -34,6 +35,7 @@ Conventional blockchains cannot solve this efficiently because storing temporal 
 ---
 
 ## 🏆 Hackathon Gate Checklist
+- [x] **Public Live Deployment**: [https://arkiv-umber.vercel.app](https://arkiv-umber.vercel.app)
 - [x] **Public MIT Repo**: [LICENSE](./LICENSE)
 - [x] **Entity Schema Specification**: [`/arkiv/schema.md`](./arkiv/schema.md)
 - [x] **Developer Friction Report**: [`/arkiv/friction.md`](./arkiv/friction.md)
